@@ -22,7 +22,7 @@
   </tr> 
   <tr>
     <th>사용 기술</th>
-    <td>Java, Jsp, ajax, javascript, JSON, HTML, CSS</td>
+    <td>Java, Jsp, ajax, javascript, HTML, CSS</td>
   </tr> 
   <tr>
     <th>프로젝트 내용</th>
